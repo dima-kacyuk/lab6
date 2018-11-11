@@ -7,11 +7,11 @@ public class fclass2 extends fclass3{
 	}
 	
 	public void sum() {
-		System.out.println("Сумма 2х элементов = " + (getTemp1() + getTemp2()));
+		System.out.println("РЎСѓРјРјР° 2С… СЌР»РµРјРµРЅС‚РѕРІ = " + (getTemp1() + getTemp2()));
 	}
 	
 	public void multiply() {
-		System.out.println("Умножение 2х элементов = " + (getTemp1() * getTemp2()));
+		System.out.println("РЈРјРЅРѕР¶РµРЅРёРµ 2С… СЌР»РµРјРµРЅС‚РѕРІ = " + (getTemp1() * getTemp2()));
 	}
 
 }
